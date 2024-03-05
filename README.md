@@ -25,6 +25,15 @@
 
 -----
 
+## Инструменты и дополнительные материалы для выполнения задания
+
+1. [Инструкция](https://www.youtube.com/watch?v=VvvRT3cLlig) по установке Secret Net Studio.
+2. [Windows Server](https://softcomputers.org/download/download-windows-server/windows-server-2019/).
+3. [Windows 10](https://softcomputers.org/download/distr-windows/download-windows-10/).
+4. [MS SQL SERVER](https://softcomputers.org/sql-server/ms-sql-server-2014-standard/).
+
+-----
+
 ## Инструкция к работе над проектом
 
 ### Общее описание задания

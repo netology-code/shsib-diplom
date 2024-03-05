@@ -27,10 +27,11 @@
 
 ## Инструменты и дополнительные материалы для выполнения задания
 
-1. [Инструкция](https://www.youtube.com/watch?v=VvvRT3cLlig) по установке Secret Net Studio.
-2. [Windows Server](https://softcomputers.org/download/download-windows-server/windows-server-2019/).
-3. [Windows 10](https://softcomputers.org/download/distr-windows/download-windows-10/).
-4. [MS SQL SERVER](https://softcomputers.org/sql-server/ms-sql-server-2014-standard/).
+1. [Инструкция](https://github.com/netology-code/ibszi-homeworks/tree/main/02) по скачиванию дистрибутива Secret Net Studio (описано в ДЗ).
+2. [Инструкция](https://www.youtube.com/watch?v=VvvRT3cLlig) по установке Secret Net Studio.
+3. [Windows Server](https://softcomputers.org/download/download-windows-server/windows-server-2019/).
+4. [Windows 10](https://softcomputers.org/download/distr-windows/download-windows-10/).
+5. [MS SQL SERVER](https://softcomputers.org/sql-server/ms-sql-server-2014-standard/).
 
 -----
 
@@ -55,7 +56,7 @@
 
 **3. Розворачивание Secret Net Studio**
 
-Разверните сервер безопасности Secret Net Studio, используя инструкцию из [видео](https://www.youtube.com/watch?v=VvvRT3cLlig).
+Разверните сервер безопасности Secret Net Studio, используя инструкцию из [видео](https://www.youtube.com/watch?v=VvvRT3cLlig). Инструкция по скачиванию дистрибутива доступна в ДЗ по [ссылке](https://github.com/netology-code/ibszi-homeworks/tree/main/02).
 
 _Обратите внимание! Если у вас недостаточно оперативной памяти на основной машине, можете развернуть сервер безопасности на контроллере домена. В реальных условиях это делать не рекомендуется._
 
